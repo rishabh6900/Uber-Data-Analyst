@@ -1,6 +1,6 @@
 ## Uber data ANALYST 
 ### I am solved all 6 question
-### i am using pandas matplotlib  numpy  seabron and pandas pandas profiling .
+### I am using pandas matplotlib  numpy  seabron and pandas pandas profiling .
 
 ### 1. In which category do people book the most uber ride ?
 
